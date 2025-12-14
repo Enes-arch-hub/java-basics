@@ -1,3 +1,3 @@
 all java lessons starting from basics
 step by step guide with code examples 
-mostly run on intellij
+I've run all this programs on intellij 
